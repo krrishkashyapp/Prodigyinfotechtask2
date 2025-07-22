@@ -1,1 +1,2 @@
 # Prodigyinfotechtask2
+Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I have performed data cleaning and exploratory data analysis (EDA) on a dataset of your choice , such as titanic dataset from kaggle . Explore the relationship between variables and identity patterns and trends in the data. 
